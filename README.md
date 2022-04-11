@@ -1,6 +1,7 @@
 # be521_final
 Final Project of BE521 course
 
+[zsh](https://www.cherryservers.com/blog/how-to-install-and-start-using-oh-my-zsh-on-ubuntu-20-04)
 
 Push and fetch large files (>100MB): use [git-lfs](https://git-lfs.github.com/). Another [guide](https://rewind.com/blog/overcoming-github-storage-limits/) 
 
