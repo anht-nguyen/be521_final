@@ -7,6 +7,7 @@ applying pca and compare with and without pca
 find ml methods better than svm
 
 
-
+First completion: 
+- .mat file with predict_dg variable (3x1 cell array) is incorrect
 
 
